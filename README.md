@@ -49,6 +49,6 @@ Technologies That I Know👨🏻‍💻
 ------
 
 
-[ANii693](https://github.com/ANii693)
+[musyaaS30](https://github.com/musyaaS30)
 
-Last Edited on: 28/02/2023
+-- Thank U Guys--
