@@ -16,6 +16,7 @@
 Technologies That I Know👨🏻‍💻
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,discord,py,vscode,github,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
 
 
 <hr width="36%" >
