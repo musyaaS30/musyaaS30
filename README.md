@@ -1,5 +1,9 @@
 # Hi 👋, I'm Musyahadat Safitrah
 
+<p align="center">
+  <img src="https://i.gifer.com/jq.gif" alt="Coding GIF">
+</p>
+
 ### Full-Stack Web Developer in Training
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
