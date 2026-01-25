@@ -18,9 +18,9 @@
 
 ## 🛠️ Technologies & Tools
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind)
+![My Skills](https://skillicons.dev/icons?i=py,html,css,js,react,tailwind,vite)
 
-![My Skills](https://skillicons.dev/icons?i=py,cloudflare,github,vscode,figma,discord)
+![My Skills](https://skillicons.dev/icons?i=vercel,cloudflare,github,vscode,figma,discord)
 
 ---
 
@@ -42,9 +42,9 @@
   <a href="https://instagram.com/musyaa_3" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" />
   </a>
-  <a href="https://tiktok.com/@musyimass3" target="blank">
-    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/tiktok-square-color-icon.png" alt="TikTok" height="40" width="40" />
-  </a>
+  <!-- <a href="https://tiktok.com/@musyimass3" target="blank">
+    <img src="https://static.vecteezy.com/system/resources/thumbnails/018/930/574/small/tiktok-logo-tikok-icon-transparent-tikok-app-logo-free-png.png" alt="TikTok" width="80" />
+  </a> -->
   <a href="https://www.facebook.com/profile.php?id=100087087560894" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" width="40" />
   </a>
