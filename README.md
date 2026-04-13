@@ -1,6 +1,6 @@
 # Hi 👋, I'm Musyahadat Safitrah
 
-<a href="https://instagram.com/musyaa_3" target="blank">
+<a href="https://musya-portfolio.vercel.app/" target="blank">
     MY PORTFOLIO WEB
 </a>
 
