@@ -20,7 +20,7 @@
 
 ## 🛠️ Technologies & Tools
 
-![My Skills](https://skillicons.dev/icons?i=py,html,css,js,react,tailwind,vite)
+![My Skills](https://skillicons.dev/icons?i=py,html,css,js,react,tailwind,vite,nestjs)
 
 ![My Skills](https://skillicons.dev/icons?i=vercel,cloudflare,github,vscode,figma,discord)
 
