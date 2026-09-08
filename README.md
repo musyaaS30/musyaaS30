@@ -30,6 +30,12 @@
 <a href="https://www.instagram.com/musyaa_3" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" />
 </a>
+<a href="https://www.facebook.com/musya" target="_blank" rel="noopener noreferrer">
+  <img
+    src="https://img.shields.io/badge/Facebook-000?style=for-the-badge&logo=facebook&logoColor=white"
+    alt="Facebook"
+  />
+</a>
 
 </div>
 
