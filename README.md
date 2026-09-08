@@ -21,8 +21,11 @@
 <a href="https://www.bymusyaa.my.id" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=safari&logoColor=007AFF" alt="Website" />
 </a>
-<a href="https://www.linkedin.com/in/musyahadat" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<a href="https://www.linkedin.com/in/musyahadat-545989343" target="_blank" rel="noopener noreferrer">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
 </a>
 <a href="https://www.instagram.com/musyaa_3" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" />
