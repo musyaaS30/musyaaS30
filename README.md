@@ -1,54 +1,59 @@
-# Hi 👋, I'm Musyahadat
-
-<!-- <a href="https://musya-portfolio.vercel.app/" target="blank"> MY PORTFOLIO WEB </a> -->
+<h1 align="center">Hi 👋, I'm Musyahadat</h1>
+<h3 align="center">Full-Stack Web Developer in Training</h3>
 
 <p align="center">
-  <img src="https://i.gifer.com/jq.gif" alt="Coding GIF">
+  <img src="https://i.gifer.com/jq.gif" alt="Coding GIF" width="450">
 </p>
 
-### Full-Stack Web Developer in Training
+<p align="center">
+  <a href="https://twitter.com/" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
+  </a>
+</p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif">
-
-🌱 **Currently learning:** Full-Stack Web Development  
-💻 **Passionate about:** Building responsive web applications  
-🚀 **Always eager to:** Learn new technologies and best practices
+<p align="center">
+  🌱 <b>Currently learning:</b> Full-Stack Web Development &nbsp;|&nbsp;
+  💻 <b>Passionate about:</b> Building responsive web applications &nbsp;|&nbsp;
+  🚀 <b>Always eager to:</b> Learn new technologies & best practices
+</p>
 
 ---
 
 ## 🛠️ Technologies & Tools
 
-![My Skills](https://skillicons.dev/icons?i=py,html,css,js,react,tailwind,vite,nestjs)
-
-![My Skills](https://skillicons.dev/icons?i=vercel,cloudflare,github,vscode,figma,discord)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,html,css,js,react,tailwind,vite,nestjs" alt="Skills" /><br/>
+  <img src="https://skillicons.dev/icons?i=vercel,cloudflare,github,vscode,figma,discord" alt="Tools" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  
-![](https://github-readme-stats.vercel.app/api?username=musyaaS30&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
-  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=musyaaS30&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=musyaaS30&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=musyaaS30&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Langs" />
+</p>
 
-</div>
+---
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/musyaaS30/musyaaS30/output/github-snake-dark.svg" alt="Snake animation" />
+</p>
 
 ---
 
 ## 📱 Connect With Me
 
 <p align="center">
-  <a href="https://instagram.com/musyaa_3" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" />
+  <a href="https://instagram.com/musyaa_3" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="35" width="35" />
   </a>
-  <!-- <a href="https://tiktok.com/@musyimass3" target="blank">
-    <img src="https://static.vecteezy.com/system/resources/thumbnails/018/930/574/small/tiktok-logo-tikok-icon-transparent-tikok-app-logo-free-png.png" alt="TikTok" width="80" />
-  </a> -->
-  <a href="https://www.facebook.com/profile.php?id=100087087560894" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" width="40" />
+  &nbsp;
+  <a href="https://www.facebook.com/profile.php?id=100087087560894" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="35" width="35" />
   </a>
 </p>
 
@@ -58,16 +63,12 @@
 
 ---
 
-## 💬 Quote
-> "Titik koma aja aku perhatiin, apalagi kamu 😝"
+<p align="center">
+  <i>"Titik koma aja aku perhatiin, apalagi kamu 😝"</i>
+</p>
 
----
+<p align="center">
+  ✨ Thank you for visiting my profile! ✨
+</p>
 
-## 🐍 Contribution Graph
-![snake gif](https://github.com/musyaaS30/musyaaS30/blob/output/github-snake-dark.svg)
-
----
-
-### Thank you for visiting my profile! ✨
-
-*Last updated: January 2024*
+<p align="right"><sub>Last updated: January 2024</sub></p>
