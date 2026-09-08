@@ -13,7 +13,24 @@
 </p>
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Musya) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/musyaa_3) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/musyahadat) 
+<!-- [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Musya) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/musyaa_3) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/musyahadat)  -->
+
+<div align="center">
+
+<a href="mailto:mussforrttk@gmail.com">
+  <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
+</a>
+<a href="https://www.bymusyaa.my.id" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=safari&logoColor=007AFF" alt="Website" />
+</a>
+<a href="https://www.linkedin.com/in/musyahadat" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
+</a>
+<a href="https://www.instagram.com/musyaa_3" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" />
+</a>
+
+</div>
 
 ---
 
