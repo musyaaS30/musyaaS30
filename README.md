@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=safari&logoColor=007AFF" alt="Website" />
 </a>
 <a href="https://www.linkedin.com/in/musyahadat" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://www.instagram.com/musyaa_3" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" />
